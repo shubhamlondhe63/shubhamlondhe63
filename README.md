@@ -28,12 +28,11 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📈 GitHub Highlights:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamlondhe63&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamlondhe63&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamlondhe63&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamlondhe63&theme=radical&hide_border=true&show_icons=true" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamlondhe63&theme=radical&hide_border=true" width="400px"/>
+</div>  
 
 ---
 

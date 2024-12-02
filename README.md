@@ -41,4 +41,3 @@
 
 ---
 
-_✨ Proudly created using [GPRM](https://gprm.itsvg.in)_
